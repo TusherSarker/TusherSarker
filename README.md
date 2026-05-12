@@ -76,9 +76,8 @@
 
 <br/>
 
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats Test" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
+<br/>
 
