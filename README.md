@@ -65,6 +65,8 @@
 
 ## 📺 Latest Content & AI Reels
 <!-- feed:START -->
+- [Beautiful place in Bangladesh. Location- Karamjal, Sundorbon](https://www.youtube.com/shorts/k6wrpL-7Z-M)
+- [A small clip of beautiful road in BANGLADESH I tinani to nonni #travelling](https://www.youtube.com/shorts/gBrAdYVSJVU)
 <!-- feed:END -->
 
 <br/>
