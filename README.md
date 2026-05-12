@@ -2,19 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=BSc+Computer+Science+Student;Cross-Platform+Developer;Agile+Problem+Solver;AI+%26+Tech+Enthusiast" alt="Typing SVG" />
-  
 </div>
-
-<div align="center">
-  <h3>🐍 Watch the snake eat my contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<br/>
-
 
 <p align="center">
   I am a strong problem solver who doesn't just stick to one stack. I build dynamic cross-platform applications and continuously expand my technical toolkit to tackle complex, real-world challenges effectively.
@@ -75,6 +63,12 @@
 
 <br/>
 
+## 📺 Latest Content & AI Reels
+<!-- START_SECTION:feed -->
+<!-- END_SECTION:feed -->
+
+<br/>
+
 ## ⚡ Fun Facts & Interests
 * 🎮 When I'm not coding or optimizing algorithms, I'm playing PUBG Mobile competitively (always hunting for that flawless 120 FPS performance).
 * 🤖 I love exploring content creation, specifically reverse-engineering algorithms and using AI tools to generate high-performing short-form reels and videos.
@@ -88,8 +82,20 @@
 
 <br/>
 
+---
+
+<h3 align="center">🏆 GitHub Activity & Stats</h3>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TusherSarker&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
+
 <br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusherSarker/TusherSarker/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusherSarker/TusherSarker/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
