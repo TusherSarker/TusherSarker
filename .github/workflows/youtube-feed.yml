@@ -1,4 +1,4 @@
-Name: Latest YouTube Videos
+name: Latest YouTube Videos
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour automatically
