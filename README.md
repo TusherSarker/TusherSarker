@@ -64,8 +64,8 @@
 <br/>
 
 ## 📺 Latest Content & AI Reels
-<!-- START_SECTION:feed -->
-<!-- END_SECTION:feed -->
+<!-- feed:START -->
+<!-- feed:END -->
 
 <br/>
 
